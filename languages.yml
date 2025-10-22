@@ -1,0 +1,9 @@
+GAS:
+  type: programming
+  color: "#f4b400"
+  aliases:
+    - Google Apps Script
+  extensions:
+    - .gs
+  tm_scope: script.gs
+  ace_mode: javascript
