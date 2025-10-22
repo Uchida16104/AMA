@@ -18,7 +18,7 @@ Attendance Management App
 
 | Day | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Attendance Times | Attendance Rate (%) | | <i>Update schedule button</i> | Overall attendance rate (%) | <i>Value</i> |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Date | m/d | m/d | m/d | m/d | m/d | m/d | m/d | a | | | | |
+| Date | m/d | m/d | m/d | m/d | m/d | m/d | m/d | | | | | |
 | Location (Dropdown list) | | | | | | | | | | | | | |
 | Scheduled Attendance (Dropdown list) | | | | | | | | | | | | | |
 | Schedule (Input text) | | | | | | | | | | | | | |
