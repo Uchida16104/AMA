@@ -14,7 +14,7 @@ Attendance Management App
 | Caution1 | App is written in Japanese. |
 | Caution2 | Please edit and update your SPREAD_SHEET_ID. |
 
-## SpreadSheet Structure
+## SpreadSheet Structure (Ex.)
 
 | Day | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Attendance Times | Attendance Rate (%) | | <i>Update schedule button</i> | Overall attendance rate (%) | <i>Value</i> |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ Attendance Management App
 | Location (Dropdown list) | | | | | | | | | | | | | |
 | Scheduled Attendance (Dropdown list) | | | | | | | | | | | | | |
 | Schedule (Input text) | | | | | | | | | | | | | |
-| Actual Attendance (Check box) | | | | | | | | | | | | | |
+| Actual Attendance (Check box) | ✅ | | ✅ | ✅ | | | | | | | | | |
 
 
 Publish on 22nd. Oct. 2025
